@@ -13,5 +13,3 @@ An **FPGA-based stopwatch** developed using **Verilog**, capable of showing time
 - **Verilog**
 - **Finite State Machines (FSM)**
 
-## Project Link
-[View on GitHub](https://github.com/ImrazMohamedFarook/FPGA-Egg-Timer)
