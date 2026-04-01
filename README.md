@@ -10,6 +10,8 @@ An **FPGA-based stopwatch** developed using **Verilog**, capable of showing time
 
 ## Key Technologies
 - **FPGA Development**
-- **Verilog**
+- **Verilog Programming Language**
 - **Finite State Machines (FSM)**
 
+## Functionality
+The FPGA Egg Timer provides a flexible, user-controlled cooking timer that displays time in MM:SS:FF format. The timer can be adjusted in real-time, providing users with the ability to cook food to their desired level of doneness.
